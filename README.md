@@ -1,17 +1,37 @@
-# Sales Performance Dashboard
+# 📊 Sales Performance Dashboard (Power BI)
 
-## Objective
-Built an interactive dashboard to analyze sales performance and customer trends.
+An interactive Power BI dashboard built to analyze sales performance, customer behavior, and key business metrics.
 
-## Tools Used
-- Power BI
+---
 
-## Key Features
-- KPI cards for total sales, orders, and quantity
-- Sales trend analysis over time
-- Top customers identification
-- Interactive filters (slicers)
+## 🔹 Key Features
+- KPI tracking: Total Sales, Orders, and Quantity  
+- Sales trend analysis over time  
+- Top customers by revenue  
+- Dynamic filtering using slicers  
 
-## Insights
-- Sales trends vary across time periods
-- A small number of customers contribute to major revenue
+---
+
+## 🔹 Tools Used
+- Power BI  
+- Data Visualization  
+- Data Analysis  
+
+---
+
+## 📸 Dashboard Preview
+![Dashboard](Screenshot%202026-03-29%20232016.png)
+
+---
+
+## 📁 Files Included
+- `Sales_Dashboard.pbix` → Power BI dashboard  
+- `Supermarket-Sales-Sample-Data.xlsx` → Dataset  
+- Screenshot preview  
+
+---
+
+## 🚀 How to Use
+1. Download `.pbix` file  
+2. Open in Power BI Desktop  
+3. Explore visuals and filters
